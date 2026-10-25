@@ -1,5 +1,12 @@
 # Sentinel Den SDKs for Swift Package Manager
 
+> **Not usable yet.** SwiftPM and Xcode download every binary in this package,
+> not only the products you pick, so it resolves only with a licence that
+> covers all 11 SDKs, and none does. Each SDK is moving to a package of its
+> own. Until then, download the SDKs from your dashboard at
+> https://sentinelden.com/dashboard. Android installs from the Maven
+> repository are not affected.
+
 The Sentinel Den iOS SDKs as one Swift package. Each SDK is a library
 product backed by a binary XCFramework, so you add only the ones your licence
 covers. iOS 17 or later.

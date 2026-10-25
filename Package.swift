@@ -25,24 +25,24 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
-            name: "AgenticGuardSDK",   // 2.3.5
-            url: "https://api.sentinelden.com/spm/agenticguard_sdk/2.3.5/AgenticGuardSDK.xcframework.zip",
-            checksum: "70c03fefc8be1b6c128837169a1c2b172bf8bde7f2427d4ce2e678cad52f2fd1"
+            name: "AgenticGuardSDK",   // 2.4.0
+            url: "https://api.sentinelden.com/spm/agenticguard_sdk/2.4.0/AgenticGuardSDK.xcframework.zip",
+            checksum: "2e1cadee422da1237291bf572d6d743ff21a16cf30e9899c0755ab00f51fe48d"
         ),
         .binaryTarget(
-            name: "AnomalyKitSDK",   // 3.2.4
-            url: "https://api.sentinelden.com/spm/anomalykit_sdk/3.2.4/AnomalyKitSDK.xcframework.zip",
-            checksum: "a8fbcbc367e4d4e7243f70e910028f08a1cbfa11311992ccd28accc794cbcf78"
+            name: "AnomalyKitSDK",   // 3.3.0
+            url: "https://api.sentinelden.com/spm/anomalykit_sdk/3.3.0/AnomalyKitSDK.xcframework.zip",
+            checksum: "3e60d2d703a8403cbd9443e62e0e0e895715233eca744ca4855b2f4e2b6e84cd"
         ),
         .binaryTarget(
-            name: "BehaviorGuardSDK",   // 2.3.4
-            url: "https://api.sentinelden.com/spm/behaviorguard_sdk/2.3.4/BehaviorGuardSDK.xcframework.zip",
-            checksum: "1443b4726b166eb20675bcb79d6083915b25320e352763ab5c24d3ec47984392"
+            name: "BehaviorGuardSDK",   // 2.4.0
+            url: "https://api.sentinelden.com/spm/behaviorguard_sdk/2.4.0/BehaviorGuardSDK.xcframework.zip",
+            checksum: "aa8758fcc61ec65af3766087b2d939aac3fc05b11fa54b89c8962cc90b82a57b"
         ),
         .binaryTarget(
-            name: "EnclaveVaultSDK",   // 1.6.3
-            url: "https://api.sentinelden.com/spm/enclavevault_sdk/1.6.3/EnclaveVaultSDK.xcframework.zip",
-            checksum: "f6796737a47e7e6c6ecfdb0daac4c7881f6ca819ed67bb1b586b15f120144ddc"
+            name: "EnclaveVaultSDK",   // 1.6.4
+            url: "https://api.sentinelden.com/spm/enclavevault_sdk/1.6.4/EnclaveVaultSDK.xcframework.zip",
+            checksum: "45ffe99ef76aa01f7955277d40d3c7081bd51a4a99ecc6033b59e03dc970135e"
         ),
         .binaryTarget(
             name: "InputGuardSDK",   // 2.4.0
@@ -55,29 +55,29 @@ let package = Package(
             checksum: "0e32087a68cbb295cb3d7099ad3b36f165881ebdfed31b5a684f3178b0514453"
         ),
         .binaryTarget(
-            name: "PayloadGuardSDK",   // 2.1.3
-            url: "https://api.sentinelden.com/spm/payloadguard_sdk/2.1.3/PayloadGuardSDK.xcframework.zip",
-            checksum: "2eb946953da82aa1d675d23b752e2d12bae17c2654084841e19ea9f8be92e802"
+            name: "PayloadGuardSDK",   // 2.2.0
+            url: "https://api.sentinelden.com/spm/payloadguard_sdk/2.2.0/PayloadGuardSDK.xcframework.zip",
+            checksum: "e98d2014e9580fbee0d8c089e7ad897f4c916e16669261702f153a6ae401b71a"
         ),
         .binaryTarget(
-            name: "PresenceKitSDK",   // 2.3.3
-            url: "https://api.sentinelden.com/spm/presencekit_sdk/2.3.3/PresenceKitSDK.xcframework.zip",
-            checksum: "8c20f765730f056bb087f6c574ebd15f3fcf43c8585afbc613a6a2cf7a62786b"
+            name: "PresenceKitSDK",   // 2.4.0
+            url: "https://api.sentinelden.com/spm/presencekit_sdk/2.4.0/PresenceKitSDK.xcframework.zip",
+            checksum: "7b1cbe833d0cab4c1bfaa7558c451756dfaf392b79613329639e6cb782f61046"
         ),
         .binaryTarget(
-            name: "RedactKitSDK",   // 3.3.5
-            url: "https://api.sentinelden.com/spm/redactkit_sdk/3.3.5/RedactKitSDK.xcframework.zip",
-            checksum: "cb0232c1f1cfd9450dbfe59e0068e78d54ed04bdb215afee3328f83121b4b0c0"
+            name: "RedactKitSDK",   // 3.4.0
+            url: "https://api.sentinelden.com/spm/redactkit_sdk/3.4.0/RedactKitSDK.xcframework.zip",
+            checksum: "f86b5a2efabec61ca58c19a345d2ca9945c83995a1c88ac3904baeb4300140af"
         ),
         .binaryTarget(
-            name: "RuntimeGuardSDK",   // 1.3.6
-            url: "https://api.sentinelden.com/spm/runtimeguard_sdk/1.3.6/RuntimeGuardSDK.xcframework.zip",
-            checksum: "6141b3e410d3024d03f78d074f92c3203d3f27ee5c408b76b6a4557295818765"
+            name: "RuntimeGuardSDK",   // 1.4.0
+            url: "https://api.sentinelden.com/spm/runtimeguard_sdk/1.4.0/RuntimeGuardSDK.xcframework.zip",
+            checksum: "5fef36dad0cf71967240fdd10f434b126793e5962747273b9b08f60778635ad9"
         ),
         .binaryTarget(
-            name: "ScreenGuardSDK",   // 2.6.0
-            url: "https://api.sentinelden.com/spm/screenguard_sdk/2.6.0/ScreenGuardSDK.xcframework.zip",
-            checksum: "099a772338c95b024866baedb93c50f4cf56a26eb923d7f5fa77ea215ddd31b9"
+            name: "ScreenGuardSDK",   // 2.7.0
+            url: "https://api.sentinelden.com/spm/screenguard_sdk/2.7.0/ScreenGuardSDK.xcframework.zip",
+            checksum: "e82d5e5d95d1654a83ea764a2eef1c4ecbd8b9f936243a053d4849bb15868c58"
         ),
     ]
 )

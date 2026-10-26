@@ -2,8 +2,8 @@
 
 This package listed all eleven Sentinel Den iOS SDKs as binary targets.
 SwiftPM and Xcode download every binary target in a package, not only the
-products a project uses, so it resolved only with a licence covering all
-eleven, and none does: the SDKs a licence does not cover were refused, and the
+products a project uses, so it resolved only with a license covering all
+eleven, and none does: the SDKs a license does not cover were refused, and the
 whole resolve failed. It is archived and will not be updated.
 
 Add the package for each SDK you licensed instead. Each one pins the same

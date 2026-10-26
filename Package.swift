@@ -3,7 +3,7 @@
 // versions and the published checksums. Do not edit by hand.
 //
 // The binaries are licensed: SwiftPM fetches them with the account email and a
-// download token from ~/.netrc or the keychain (see README.md). The licence key
+// download token from ~/.netrc or the keychain (see README.md). The license key
 // does not work here: it ships inside your app, so it is not a secret.
 import PackageDescription
 
